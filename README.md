@@ -1,2 +1,2 @@
-# Strees_Analysis_project
-This repository shows the final project for Theoretical Mechanics II. The final project consisted on analyzing gravity separation on bearings by using computational methods llke Mathematica.
+# Strees Analysis project
+This repository shows the final project for Theoretical Mechanics II. The final project consisted on analyzing gravity separation on bearings by using computational methods llke Mathematica. There is some misconcepts in the code since we were geeting different outputs, and never the one expected. The expected result should have shown a different graph where the strees on the bearing is being shown specially when it changes velocity. 
